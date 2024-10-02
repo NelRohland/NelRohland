@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nel Rohland!
-==========================================================================================================================================
-![LinkedIn](www.linkedin.com/in/nel-rohland-0a123b317)
+
+---
 
 I'm a passionate software developer, tech enthusiast, and lifelong learner. I love creating cool projects that solve problems and improve lives. 💻✨
 
