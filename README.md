@@ -10,7 +10,7 @@ I'm a passionate software developer, tech enthusiast, and lifelong learner. I lo
 
 - 🌍 I'm based in Cape Town, Western Cape, South Africa
 - 🎓 I'm currently pursuing a **BSC in IT** (Information Technology)
-- 👨‍💻 I’m working on **[The Book Buddy]**, a textbook management system designed for school
+- 👨‍💻 I’m working on **[The Book Buddy]**, a textbook management system designed for schools
 - 🌱 I’m currently learning **C#/.NET** for a new library management app
 - 🤝 I’m open to collaborating on exciting projects and startups
 - 💬 Ask me about **software development**, **cloud computing**, or **infused coffee**
