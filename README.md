@@ -32,7 +32,7 @@ Here are some technologies I enjoy working with:
 
 Here are some of my favorite projects:
 
-- **[Nels Tec Aid Manager](#)**: A tool for managing computer repair businesses built with Delphi
+- **[Glassnood](#)**: A mobile app for making invoices, used by a local Glass Company
 - **[Book Buddy](#)**: A textbook management system designed for schools
 
 
